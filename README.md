@@ -18,6 +18,22 @@ Strategies for constructing longitudinal datasets:
 - **Number of Priors**: single prior vs. multiple temporal priors  
 - **Multi-View**: frontal only vs. multi-view (frontal + lateral)  
 
+<p align="center">
+  <img src="Dataset.png" alt="TAX" style="display: block; margin: 0 auto;" />
+</p>
+
+⚡ **Core Challenges**
+
+Longitudinal report generation introduces unique difficulties that go beyond single-image settings, requiring models to cope with incomplete data, misaligned features, and complex temporal reasoning.  
+- **Missing priors** → zero-padding, placeholder tokens, pseudo-priors  
+- **Feature misalignment** → contrastive learning across time & modalities  
+- **Temporal fusion** → attention, gating, concatenation  
+- **Auxiliary modules** → temporal change classification, retrieval-based augmentation, time-gap encoding  
+
+<p align="center">
+  <img src="Method_Tree.png" alt="TAX" style="display: block; margin: 0 auto;" />
+</p>
+
 #### :books: How to read?
 The papers are organized by year and methodology approach. Each paper includes links to the original publication and code repository (when available). The papers are listed in chronological order from newest to oldest to track the evolution of the field.
 
@@ -27,8 +43,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 #### :star: If you find this repo useful, please star it!!!
 
-
 ## Papers
+
+### Longitudinal Method
 
 + **DDaTR** [Dynamic Difference-aware Temporal Residual Network for Longitudinal Radiology Report Generation](https://arxiv.org/abs/2505.03401) (May 06, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.03401)
@@ -105,6 +122,27 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + **BioVil-T** [Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing](https://arxiv.org/pdf/2301.04558) (Mar 16, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2301.04558)
 
++ **PriorRG** [Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation](https://arxiv.org/pdf/2508.05353) (Aug 7, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2508.05353)
+  [![Star](https://img.shields.io/github/stars/mk-runner/PriorRG.svg?style=social&label=Star)](https://github.com/mk-runner/PriorRG)
 
++ **DPE** [Disease probability-enhanced follow-up chest X-ray radiology report summary generation](https://www.nature.com/articles/s41598-025-12684-2) (Jul 24, 2025)
+  [![Paper](https://img.shields.io/badge/Nature-Article-blue)](https://www.nature.com/articles/s41598-025-12684-2)
 
+### Longitudinal-related Metrics
+
++ **Mrscore** [Mrscore: Evaluating radiology report generation with llm-based reward system](https://arxiv.org/abs/2404.17778) (Apr 27, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.17778)
+
++ **Lunguage** [Lunguage: A Benchmark for Structured and Sequential Chest X-ray Interpretation](https://arxiv.org/abs/2505.21190) (May 27, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21190)
+
++ **FineRadScore** [FineRadScore: A Radiology Report Line-by-Line Evaluation Technique Generating Corrections with Severity Scores](https://arxiv.org/abs/2405.20613) (May 31, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20613)
+
++ **Green** [Green: Generative radiology report evaluation and error notation](https://arxiv.org/abs/2405.20613) (May 6, 2024)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20613)
+  [![Star](https://img.shields.io/github/stars/Stanford-AIMI/GREEN.svg?style=social&label=Star)](https://github.com/Stanford-AIMI/GREEN)
+
+  
 *This list is continuously updated. Please feel free to contribute by opening issues or pull requests!*
