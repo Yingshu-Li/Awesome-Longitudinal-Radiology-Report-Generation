@@ -1,8 +1,22 @@
 # Awesome Longitudinal Report Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
+## [A Survey of Longitudinal Report Generation]
+
+
 This is a repository for organizing papers, codes and other resources related to Longitudinal Report Generation, particularly focusing on medical imaging and radiology report generation using temporal data.
 
 Longitudinal Report Generation involves generating textual reports from sequences of medical images taken over time, leveraging temporal information to provide more accurate and comprehensive diagnoses.
+
+## 📖 **The main structure of this survey!**
+
+
+📂 **Datasets**
+
+Strategies for constructing longitudinal datasets:
+- **Modality Composition**: prior images, prior reports, or both  
+- **Case Inclusion**: only longitudinal cases vs. mixed  
+- **Number of Priors**: single prior vs. multiple temporal priors  
+- **Multi-View**: frontal only vs. multi-view (frontal + lateral)  
 
 #### :books: How to read?
 The papers are organized by year and methodology approach. Each paper includes links to the original publication and code repository (when available). The papers are listed in chronological order from newest to oldest to track the evolution of the field.
