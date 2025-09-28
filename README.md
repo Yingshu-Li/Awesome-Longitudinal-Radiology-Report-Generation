@@ -129,6 +129,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + **DPE** [Disease probability-enhanced follow-up chest X-ray radiology report summary generation](https://www.nature.com/articles/s41598-025-12684-2) (Jul 24, 2025)
   [![Paper](https://img.shields.io/badge/Nature-Article-blue)](https://www.nature.com/articles/s41598-025-12684-2)
 
++ **Diff-RRG** [Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_15) (Sep 20, 2025)
+  [![MICCAI](https://img.shields.io/badge/MICCAI-2025-brightgreen)](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_15)
+  [![Star](https://img.shields.io/github/stars/ku-milab/Diff-RRG.svg?style=social&label=Star)](https://github.com/ku-milab/Diff-RRG)
+
 ### Longitudinal-related Metrics
 
 + **Mrscore** [Mrscore: Evaluating radiology report generation with llm-based reward system](https://arxiv.org/abs/2404.17778) (Apr 27, 2024)
