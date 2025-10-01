@@ -14,7 +14,6 @@ Longitudinal Report Generation involves generating textual reports from sequence
 
 Strategies for constructing longitudinal datasets:
 - **Modality Composition**: prior images, prior reports, or both  
-- **Case Inclusion**: only longitudinal cases vs. mixed  
 - **Number of Priors**: single prior vs. multiple temporal priors  
 - **Multi-View**: frontal only vs. multi-view (frontal + lateral)  
 
