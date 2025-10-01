@@ -2,8 +2,8 @@
 
 ## [A Survey of Longitudinal Report Generation]
 
-[![Stars](https://img.shields.io/github/stars/YourName/YourRepo?style=social)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation)
-[![Issues](https://img.shields.io/github/issues/YourName/YourRepo)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation)
+[![GitHub stars](https://img.shields.io/github/stars/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation?style=social)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation/stargazers)  
+[![GitHub issues](https://img.shields.io/github/issues/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation/issues)  
 
 This is a repository for organizing papers, codes and other resources related to Longitudinal Report Generation, particularly focusing on medical imaging and radiology report generation using temporal data.
 
