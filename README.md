@@ -2,10 +2,17 @@
 
 ## [A Survey of Longitudinal Report Generation]
 
+[![Stars](https://img.shields.io/github/stars/YourName/YourRepo?style=social)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation)
+[![Issues](https://img.shields.io/github/issues/YourName/YourRepo)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation)
 
 This is a repository for organizing papers, codes and other resources related to Longitudinal Report Generation, particularly focusing on medical imaging and radiology report generation using temporal data.
 
 Longitudinal Report Generation involves generating textual reports from sequences of medical images taken over time, leveraging temporal information to provide more accurate and comprehensive diagnoses.
+
+## 📌 Introduction
+Chest X-ray radiology report generation (CXR-RRG) has gained increasing attention as a way to reduce radiologists’ workload by automatically producing clinically coherent free-text reports. However, most existing surveys focus on single-image inputs.  
+
+To address this limitation, our work provides the **first comprehensive survey on Longitudinal Radiology Report Generation (LRRG)**. We systematically review dataset construction strategies, model architectures tailored for temporal reasoning, and evaluation protocols, including longitudinal-specific metrics. Furthermore, we aggregate performance results and ablation studies across representative LRRG methods, highlighting how longitudinal information and architectural design choices contribute to clinically faithful report generation.
 
 ## 📖 **The main structure of this survey!**
 
