@@ -18,7 +18,7 @@ Strategies for constructing longitudinal datasets:
 - **Multi-View**: frontal only vs. multi-view (frontal + lateral)  
 
 <p align="center">
-  <img src="Dataset.png" alt="TAX" style="display: block; margin: 0 auto;" />
+  <img src="Dataset2.png" alt="TAX" style="display: block; margin: 0 auto;" />
 </p>
 
 ⚡ **Core Challenges**
