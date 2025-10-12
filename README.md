@@ -84,10 +84,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.19378v2)
   [![Star](https://img.shields.io/github/stars/X-iZhang/Libra.svg?style=social&label=Star)](https://github.com/X-iZhang/Libra)
 
-+ **HIST-AID** [Leveraging Historical Patient Reports for Enhanced Multi-Modal Automatic Diagnosis](https://arxiv.org/abs/2411.10684) (Nov 26, 2024)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10684)
-  [![Star](https://img.shields.io/github/stars/NoTody/HIST-AID.svg?style=social&label=Star)](https://github.com/NoTody/HIST-AID)
-
 + **EVOKE** [Elevating Chest X-ray Report Generation via Multi-View Contrastive Learning and Patient-Specific Knowledge](https://arxiv.org/abs/2411.10224) (Nov 15, 2024)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.10224)
   [![Star](https://img.shields.io/github/stars/mk-runner/EVOKE.svg?style=social&label=Star)](https://github.com/mk-runner/EVOKE)
@@ -107,21 +103,21 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15158)
   [![Star](https://img.shields.io/github/stars/HKU-MedAI/HERGen.svg?style=social&label=Star)](https://github.com/HKU-MedAI/HERGen)
 
-+ **LGVT** [Enhancing Radiology Report Generation: The Impact of Locally Grounded Vision and Language Training](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_857/paper.pdf) (2024)
++ **ERRG** [Enhancing Radiology Report Generation: The Impact of Locally Grounded Vision and Language Training](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_857/paper.pdf) (2024)
   [![PDF](https://img.shields.io/badge/PDF-EC1C24.svg)](https://bmva-archive.org.uk/bmvc/2024/papers/Paper_857/paper.pdf)
 
 + **RECAP** [Towards Precise Radiology Report Generation via Dynamic Disease Progression Reasoning](https://arxiv.org/pdf/2310.13864) (Oct 21, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.13864)
   [![Star](https://img.shields.io/github/stars/wjhou/Recap.svg?style=social&label=Star)](https://github.com/wjhou/Recap)
 
-+ **LXRCXR** [Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports](https://arxiv.org/abs/2306.08749) (Oct 10, 2023)
++ **ULCX** [Utilizing Longitudinal Chest X-Rays and Reports to Pre-Fill Radiology Reports](https://arxiv.org/abs/2306.08749) (Oct 10, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.08749)
   [![Star](https://img.shields.io/github/stars/CelestialShine/Longitudinal-Chest-X-Ray.svg?style=social&label=Star)](https://github.com/CelestialShine/Longitudinal-Chest-X-Ray)
 
-+ **CCLR** [Controllable Chest X-Ray Report Generation from Longitudinal Representations](https://arxiv.org/pdf/2310.05881) (Oct 09, 2023)
++ **CCXRG** [Controllable Chest X-Ray Report Generation from Longitudinal Representations](https://arxiv.org/pdf/2310.05881) (Oct 09, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2310.05881)
 
-+ **CXRMate** [Longitudinal Data and a Semantic Similarity Reward for Chest X-Ray Report Generation](https://arxiv.org/abs/2307.09758) (Jul 19, 2023)
++ **LDSSR** [Longitudinal Data and a Semantic Similarity Reward for Chest X-Ray Report Generation](https://arxiv.org/abs/2307.09758) (Jul 19, 2023)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.09758)
   [![Star](https://img.shields.io/github/stars/aehrc/cxrmate.svg?style=social&label=Star)](https://github.com/aehrc/cxrmate)
 
@@ -131,9 +127,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + **PriorRG** [Prior-Guided Contrastive Pre-training and Coarse-to-Fine Decoding for Chest X-ray Report Generation](https://arxiv.org/pdf/2508.05353) (Aug 7, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2508.05353)
   [![Star](https://img.shields.io/github/stars/mk-runner/PriorRG.svg?style=social&label=Star)](https://github.com/mk-runner/PriorRG)
-
-+ **DPE** [Disease probability-enhanced follow-up chest X-ray radiology report summary generation](https://www.nature.com/articles/s41598-025-12684-2) (Jul 24, 2025)
-  [![Paper](https://img.shields.io/badge/Nature-Article-blue)](https://www.nature.com/articles/s41598-025-12684-2)
 
 + **Diff-RRG** [Longitudinal Disease-Wise Patch Difference as Guidance for LLM-Based Radiology Report Generation](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_15) (Sep 20, 2025)
   [![MICCAI](https://img.shields.io/badge/MICCAI-2025-brightgreen)](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_15)
