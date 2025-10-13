@@ -37,7 +37,7 @@ Longitudinal report generation introduces unique difficulties that go beyond sin
 - **Auxiliary modules** → temporal change classification, retrieval-based augmentation, time-gap encoding  
 
 <p align="center">
-  <img src="method_tree1.png" alt="TAX" style="display: block; margin: 0 auto;" />
+  <img src="category-tree.png" alt="TAX" style="display: block; margin: 0 auto;" />
 </p>
 
 #### :books: How to read?
