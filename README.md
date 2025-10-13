@@ -147,5 +147,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.20613)
   [![Star](https://img.shields.io/github/stars/Stanford-AIMI/GREEN.svg?style=social&label=Star)](https://github.com/Stanford-AIMI/GREEN)
 
++ **CLEAR** [CLEAR: A Clinically-Grounded Tabular Framework for Radiology Report Evaluation](https://arxiv.org/pdf/2505.16325) (May 22, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.16325)
   
 *This list is continuously updated. Please feel free to contribute by opening issues or pull requests!*
