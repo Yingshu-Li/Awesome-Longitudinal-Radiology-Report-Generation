@@ -2,6 +2,7 @@
 
 ## A Survey of Longitudinal Report Generation
 
+[![arXiv](https://img.shields.io/badge/arXiv-2510.12444-b31b1b.svg)](https://arxiv.org/abs/2510.12444)
 [![GitHub stars](https://img.shields.io/github/stars/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation?style=social)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation/stargazers)  
 [![GitHub issues](https://img.shields.io/github/issues/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation/issues)  
 
@@ -149,5 +150,21 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 + **CLEAR** [CLEAR: A Clinically-Grounded Tabular Framework for Radiology Report Evaluation](https://arxiv.org/pdf/2505.16325) (May 22, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.16325)
-  
+
+
+## 📝 Citation
+
+If you find our work useful, please cite:
+
+```bibtex
+@misc{zhou2025reviewlongitudinalradiologyreport,
+  title={A Review of Longitudinal Radiology Report Generation: Dataset Composition, Methods, and Performance Evaluation},
+  author={Shaoyang Zhou and Yingshu Li and Yunyi Liu and Lingqiao Liu and Lei Wang and Luping Zhou},
+  year={2025},
+  eprint={2510.12444},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV},
+  url={https://arxiv.org/abs/2510.12444},
+}
+
 *This list is continuously updated. Please feel free to contribute by opening issues or pull requests!*
