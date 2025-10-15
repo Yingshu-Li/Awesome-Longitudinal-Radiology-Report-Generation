@@ -133,6 +133,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![MICCAI](https://img.shields.io/badge/MICCAI-2025-brightgreen)](https://link.springer.com/chapter/10.1007/978-3-032-04981-0_15)
   [![Star](https://img.shields.io/github/stars/ku-milab/Diff-RRG.svg?style=social&label=Star)](https://github.com/ku-milab/Diff-RRG)
 
++ **C-SRRG** [Automated Structured Radiology Report Generation with Rich Clinical Context](https://arxiv.org/abs/2510.00428) (Oct 1, 2025)
+  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.00428)
+  [![Star](https://img.shields.io/github/stars/vuno/contextualized-srrg.svg?style=social&label=Star)](https://github.com/vuno/contextualized-srrg)
+
 ### Longitudinal-related Metrics
 
 + **Mrscore** [Mrscore: Evaluating radiology report generation with llm-based reward system](https://arxiv.org/abs/2404.17778) (Apr 27, 2024)
