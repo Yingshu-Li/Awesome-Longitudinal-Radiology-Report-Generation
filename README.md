@@ -1,6 +1,6 @@
 # Awesome Longitudinal Report Generation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <!-- omit in toc -->
 
-## A Survey of Longitudinal Report Generation
+## 🧠 A Survey of Longitudinal Report Generation
 
 [![arXiv](https://img.shields.io/badge/arXiv-2510.12444-b31b1b.svg)](https://arxiv.org/abs/2510.12444)
 [![GitHub stars](https://img.shields.io/github/stars/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation?style=social)](https://github.com/Yingshu-Li/Awesome-Longitudinal-Radiology-Report-Generation/stargazers)  
