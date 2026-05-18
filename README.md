@@ -154,6 +154,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + **STAPO** [Spatio-Temporal-Aware Preference Optimization for Personalized Radiology Report Generation](https://www.sciencedirect.com/science/article/pii/S0957417426012777) (Apr 2026)
   [![ESWA](https://img.shields.io/badge/ESWA-2026-blue)](https://www.sciencedirect.com/science/article/pii/S0957417426012777)
 
++ **UniRG-CXR** [Scaling medical imaging report generation with multimodal reinforcement learning](https://arxiv.org/abs/2601.17151) (Jan 23, 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-2026-b31b1b)](https://arxiv.org/abs/2601.17151)
+  [![MSR Blog](https://img.shields.io/badge/MSR%20Blog-2026-blue)](https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/)
+
 ### Longitudinal-related Metrics
 
 + **Mrscore** [Mrscore: Evaluating radiology report generation with llm-based reward system](https://arxiv.org/abs/2404.17778) (Apr 27, 2024)
@@ -179,9 +183,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![ACL Findings](https://img.shields.io/badge/ACL%20Findings-2026-brightgreen)](https://arxiv.org/abs/2605.15574)
   [![Star](https://img.shields.io/github/stars/AIDASLab/MI-CXR.svg?style=social&label=Star)](https://github.com/AIDASLab/MI-CXR)
 
-+ **UniRG-CXR** [Scaling medical imaging report generation with multimodal reinforcement learning](https://arxiv.org/abs/2601.17151) (Jan 23, 2026)
-  [![arXiv](https://img.shields.io/badge/arXiv-2026-b31b1b)](https://arxiv.org/abs/2601.17151)
-  [![MSR Blog](https://img.shields.io/badge/MSR%20Blog-2026-blue)](https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/)
 
 ## 📝 Citation
 
