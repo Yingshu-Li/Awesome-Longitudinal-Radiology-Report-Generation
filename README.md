@@ -151,6 +151,9 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![EAAI](https://img.shields.io/badge/EAAI-2026-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)
   [![Star](https://img.shields.io/github/stars/kongkong935/MOE-RRG.svg?style=social&label=Star)](https://github.com/kongkong935/MOE-RRG)
 
++ **STAPO** [Spatio-Temporal-Aware Preference Optimization for Personalized Radiology Report Generation](https://www.sciencedirect.com/science/article/pii/S0957417426012777) (Apr 2026)
+  [![ESWA](https://img.shields.io/badge/ESWA-2026-blue)](https://www.sciencedirect.com/science/article/pii/S0957417426012777)
+
 ### Longitudinal-related Metrics
 
 + **Mrscore** [Mrscore: Evaluating radiology report generation with llm-based reward system](https://arxiv.org/abs/2404.17778) (Apr 27, 2024)
@@ -169,6 +172,12 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 + **CLEAR** [CLEAR: A Clinically-Grounded Tabular Framework for Radiology Report Evaluation](https://arxiv.org/pdf/2505.16325) (May 22, 2025)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/pdf/2505.16325)
 
++ **LLM-LRRE** [Standardizing Longitudinal Radiology Report Evaluation via Large Language Model Annotation](https://arxiv.org/abs/2601.16753) (Jan 23, 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-2026-b31b1b)](https://arxiv.org/abs/2601.16753)
+
++ **MI-CXR** [MI-CXR: A Benchmark for Longitudinal Reasoning over Multi-Interval Chest X-rays](https://arxiv.org/abs/2605.15574) (May 15, 2026)
+  [![ACL Findings](https://img.shields.io/badge/ACL%20Findings-2026-brightgreen)](https://arxiv.org/abs/2605.15574)
+  [![Star](https://img.shields.io/github/stars/AIDASLab/MI-CXR.svg?style=social&label=Star)](https://github.com/AIDASLab/MI-CXR)
 
 ## 📝 Citation
 
