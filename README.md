@@ -139,7 +139,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 + **TRACE** [Temporal Radiology with Anatomical Change Explanation for Grounded X-ray Report Generation](https://arxiv.org/abs/2602.02963) (Feb 3, 2026)
   [![arXiv](https://img.shields.io/badge/arXiv-2026-b31b1b)](https://arxiv.org/abs/2602.02963)
-
+  [![Star](https://img.shields.io/github/stars/vuno/contextualized-srrg.svg?style=social&label=Star)](https://github.com/UTSA-VIRLab/TRACE)
 + **MRID** [Modeling Radiological Image Differences for Disease Progression Reasoning via Multi-Task Self-Supervision](https://www.mdpi.com/2079-9292/15/5/997) (Feb 27, 2026)
   [![Electronics](https://img.shields.io/badge/Electronics-2026-blue)](https://www.mdpi.com/2079-9292/15/5/997)
 
