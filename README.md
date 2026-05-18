@@ -137,6 +137,20 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.00428)
   [![Star](https://img.shields.io/github/stars/vuno/contextualized-srrg.svg?style=social&label=Star)](https://github.com/vuno/contextualized-srrg)
 
++ **TRACE** [Temporal Radiology with Anatomical Change Explanation for Grounded X-ray Report Generation](https://arxiv.org/abs/2602.02963) (Feb 3, 2026)
+  [![arXiv](https://img.shields.io/badge/arXiv-2026-b31b1b)](https://arxiv.org/abs/2602.02963)
+
++ **MRID** [Modeling Radiological Image Differences for Disease Progression Reasoning via Multi-Task Self-Supervision](https://www.mdpi.com/2079-9292/15/5/997) (Feb 27, 2026)
+  [![Electronics](https://img.shields.io/badge/Electronics-2026-blue)](https://www.mdpi.com/2079-9292/15/5/997)
+
++ **MARE** [Multimodal Analogical Reasoning for Disease Evolution-Aware Radiology Report Generation](https://ojs.aaai.org/index.php/AAAI/article/view/39262) (AAAI 2026)
+  [![AAAI](https://img.shields.io/badge/AAAI-2026-brightgreen)](https://ojs.aaai.org/index.php/AAAI/article/view/39262)
+  [![Star](https://img.shields.io/github/stars/gaoqingqing77/MARE.svg?style=social&label=Star)](https://github.com/gaoqingqing77/MARE)
+
++ **MOE-RRG** [Mixture of Experts for Radiology Report Generation](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189) (Mar 24, 2026)
+  [![EAAI](https://img.shields.io/badge/EAAI-2026-blue)](https://www.sciencedirect.com/science/article/abs/pii/S0952197626007189)
+  [![Star](https://img.shields.io/github/stars/kongkong935/MOE-RRG.svg?style=social&label=Star)](https://github.com/kongkong935/MOE-RRG)
+
 ### Longitudinal-related Metrics
 
 + **Mrscore** [Mrscore: Evaluating radiology report generation with llm-based reward system](https://arxiv.org/abs/2404.17778) (Apr 27, 2024)
